@@ -9,3 +9,9 @@ What is being done
 - Unit tests covering each requirement created
 - Factory pattern implemented 
 - Each product type receives specific processing rule (extension point for any future rules)
+
+How to use it
+
+- Restore Nuget packages
+- Build
+- Run tests
